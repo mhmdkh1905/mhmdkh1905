@@ -1,22 +1,46 @@
-# Hello, I'm Mohammad Khateeb 👋
+<h1 align="center">Hello, I'm <span style="color:#4e9cff;">Mohammad Khateeb</span> 👋</h1>
 
-I'm a dedicated software engineer with a strong passion for full-stack development and machine learning. I recently graduated with a **B.Sc. in Software Engineering**, and I love building clean, impactful systems and solving real-world problems using modern technologies. I'm always learning and improving my skills to become a professional full-stack developer.
+<p align="center">
+  🚀 Full-Stack Developer | 🎓 Software Engineering Graduate | 🤖 ML Enthusiast
+</p>
+
+---
+
+## ✨ About Me  
+I'm a dedicated software engineer with a strong passion for **full-stack development** and **machine learning**.  
+I recently graduated with a **B.Sc. in Software Engineering**, and I love building clean, impactful systems that solve real-world problems.  
+I'm always improving my skills, exploring new technologies, and working toward becoming a top full-stack developer.
 
 ---
 
 ## 🔧 Skills  
-**Languages:** Java, C, Python, C#, JavaScript, HTML, CSS  
-**Frameworks:** React, Node.js, Spring Boot  
-**Databases:** MongoDB, MySQL, Firebase  
+### 🖥️ Programming & Markup  
+- **Java**, **C**, **C#**, **Python**, **JavaScript**, **HTML**, **CSS**
+
+### ⚙️ Frameworks & Technologies  
+- **React**, **Node.js**, **Spring Boot**
+
+### 🗄️ Databases  
+- **MongoDB**, **MySQL**, **Firebase**
 
 ---
 
 ## 📫 How to Reach Me  
-- **GitHub:** [mhmdkh1905](https://github.com/mhmdkh1905)  
-- **LinkedIn:** [linkedin.com/in/mohammad-khateeb-891332303](https://www.linkedin.com/in/mohammad-khateeb-891332303)  
-- **Email:** [mhmd52kh@gmail.com](mailto:mhmd52kh@gmail.com)
+<p align="left">
+  <a href="https://github.com/mhmdkh1905" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/mohammad-khateeb-891332303" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="mailto:mhmd52kh@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🐍 Contribution Snake  
-![Snake animation](https://github.com/mhmdkh1905/mhmdkh1905/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/mhmdkh1905/mhmdkh1905/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
