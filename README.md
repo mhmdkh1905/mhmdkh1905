@@ -1,46 +1,89 @@
-<h1 align="center">Hello, I'm <span style="color:#4e9cff;">Mohammad Khateeb</span> 👋</h1>
+<div align="center">
+  
+# 👋 Hi, I'm <span style="background: linear-gradient(90deg, #4e9cff 0%, #00d4ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mohammad Khateeb</span>
 
-<p align="center">
-  🚀 Full-Stack Developer | 🎓 Software Engineering Graduate | 🤖 ML Enthusiast
-</p>
+### 🚀 Full-Stack Developer | 🎓 Software Engineering Graduate | 🤖 ML Enthusiast
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E9CFF&center=true&vCenter=true&width=435&lines=Building+impactful+solutions;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" />
 
-## ✨ About Me  
-I'm a dedicated software engineer with a strong passion for **full-stack development** and **machine learning**.  
-I recently graduated with a **B.Sc. in Software Engineering**, and I love building clean, impactful systems that solve real-world problems.  
-I'm always improving my skills, exploring new technologies, and working toward becoming a top full-stack developer.
+</div>
 
 ---
 
-## 🔧 Skills  
-### 🖥️ Programming & Markup  
-- **Java**, **C**, **C#**, **Python**, **JavaScript**, **HTML**, **CSS**
+## 🌟 About Me
+```typescript
+const mohammad = {
+    education: "B.Sc. in Software Engineering",
+    focus: ["Full-Stack Development", "Machine Learning"],
+    currentGoal: "Becoming a top-tier full-stack developer",
+    philosophy: "Clean code, real impact, continuous growth",
+    interests: ["Problem Solving", "System Design", "Innovation"]
+};
+```
 
-### ⚙️ Frameworks & Technologies  
-- **React**, **Node.js**, **Spring Boot**
-
-### 🗄️ Databases  
-- **MongoDB**, **MySQL**, **Firebase**
-
----
-
-## 📫 How to Reach Me  
-<p align="left">
-  <a href="https://github.com/mhmdkh1905" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.linkedin.com/in/mohammad-khateeb-891332303" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="mailto:mhmd52kh@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
-  </a>
-</p>
+I'm a dedicated software engineer passionate about crafting **elegant solutions** to complex problems. I thrive on learning new technologies and building systems that make a difference. Every project is an opportunity to grow and push boundaries.
 
 ---
 
-## 🐍 Contribution Snake  
-<p align="center">
-  <img src="https://github.com/mhmdkh1905/mhmdkh1905/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+
+### Databases
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdkh1905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff&icon_color=4e9cff)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdkh1905&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdkh1905&theme=tokyonight&hide_border=true&background=0D1117&ring=4e9cff&fire=4e9cff&currStreakLabel=4e9cff)
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhmdkh1905)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-khateeb-891332303)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhmd52kh@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+![Profile Views](https://komarev.com/ghpvc/?username=mhmdkh1905&color=4e9cff&style=flat-square)
+
+</div>
