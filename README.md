@@ -25,7 +25,7 @@ I'm a dedicated software engineer passionate about crafting **elegant solutions*
 
 ---
 
-## 💻 Tech Stack
+## 💻 Skills
 
 <div align="center">
 
@@ -60,7 +60,6 @@ I'm a dedicated software engineer passionate about crafting **elegant solutions*
   
 ![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdkh1905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff&icon_color=4e9cff)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdkh1905&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff)
 
 
 </div>
@@ -83,6 +82,5 @@ I'm a dedicated software engineer passionate about crafting **elegant solutions*
   
 ### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
-![Profile Views](https://komarev.com/ghpvc/?username=mhmdkh1905&color=4e9cff&style=flat-square)
 
 </div>
