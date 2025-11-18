@@ -62,7 +62,6 @@ I'm a dedicated software engineer passionate about crafting **elegant solutions*
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mhmdkh1905&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mhmdkh1905&theme=tokyonight&hide_border=true&background=0D1117&ring=4e9cff&fire=4e9cff&currStreakLabel=4e9cff)
 
 </div>
 
