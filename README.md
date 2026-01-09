@@ -1,72 +1,97 @@
 <div align="center">
-  
-# 👋 Hi, I'm <span style="background: linear-gradient(90deg, #4e9cff 0%, #00d4ff 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Mohammad Khateeb</span>
 
-### 🚀 Full-Stack Developer | 🎓 Software Engineering Graduate | 🤖 ML Enthusiast
+# 👋 Hi, I'm Mohammad Khateeb
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E9CFF&center=true&vCenter=true&width=435&lines=Building+impactful+solutions;Passionate+about+clean+code;Always+learning+new+tech" alt="Typing SVG" />
+### 🚀 Junior Full-Stack Developer | 🎓 Software Engineering Graduate
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E9CFF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Development;Clean+Code+%26+Scalable+Systems;Always+Learning+%26+Building" alt="Typing SVG" />
 
 </div>
 
 ---
 
 ## 🌟 About Me
-```typescript
-const mohammad = {
-    education: "B.Sc. in Software Engineering",
-    focus: ["Full-Stack Development", "Machine Learning"],
-    currentGoal: "Becoming a top-tier full-stack developer",
-    philosophy: "Clean code, real impact, continuous growth",
-    interests: ["Problem Solving", "System Design", "Innovation"]
-};
-```
 
-I'm a dedicated software engineer passionate about crafting **elegant solutions** to complex problems. I thrive on learning new technologies and building systems that make a difference. Every project is an opportunity to grow and push boundaries.
+I'm a **B.Sc. Software Engineering graduate** and **Junior Full-Stack Developer** with hands-on experience building **responsive web applications**, **scalable backend systems**, and **data-driven dashboards**.
+
+I enjoy working across the stack — from designing clean user interfaces to implementing backend logic and databases. I’m a fast learner, highly motivated, and eager to contribute to real-world products in collaborative engineering teams.
 
 ---
 
-## 💻 Skills
+## 💻 Technical Skills
 
-<div align="center">
+### 🧑‍💻 Coding Languages
+- Java, JavaScript, Python, C, C#, C++
 
-### Languages
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🎨 Frontend
+- React, HTML, CSS, Tailwind CSS
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### ⚙️ Backend
+- Node.js, Java, REST APIs
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+### 🗄️ Databases
+- MySQL, Firebase
 
-### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+### 🛠️ Tools & Practices
+- Git, GitHub, Agile/Scrum
 
-</div>
+### 🧠 Core Concepts
+- Object-Oriented Programming (OOP)  
+- Software Architecture  
+- Software Testing  
+- Client–Server Architecture  
+- RESTful API Design  
 
 ---
 
-## 📊 GitHub Stats
+## 📂 Selected Projects
 
-<div align="center">
-  
-![Mohammad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mhmdkh1905&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4e9cff&icon_color=4e9cff)
+### 🌊 WaterScope Dashboard
+**React, Tailwind CSS, Firebase**  
+- Built a full-stack dashboard for visualizing climate and water-level data.  
+- Implemented time-series charts, regression analysis, and trend insights.  
+- Integrated real-time Firebase data and reusable React components.  
 
-
-
-</div>
+🔗 https://github.com/mhmdkh1905/waterScope
 
 ---
 
-## 🤝 Let's Connect!
+### 📊 Braude Analyzer
+**React, Node.js, Tailwind CSS**  
+- Developed a web application for uploading, merging, and analyzing Excel files.  
+- Built frontend in React and backend logic in Node.js.  
+- Generated dynamic data visualizations with a responsive UI.  
+
+🔗 https://github.com/mhmdkh1905/Braude-Analyzer
+
+---
+
+### 🌲 GoNature Park Management System
+**Java, JavaFX, MySQL**  
+- Implemented a client-server reservation and management system.  
+- Worked on backend logic, database design, and JavaFX user interface.  
+
+🔗 https://github.com/mhmdkh1905/GoNature-Park-Management-System
+
+---
+
+### 🧠 EEG Classification using NCD
+**Python, Pandas, NumPy**  
+- Built a data-processing pipeline for EEG signal classification using compression-based similarity (NCD).  
+- Performed signal preprocessing and segmentation, achieving ≥60% classification accuracy.  
+
+🔗 https://github.com/mhmdkh1905/EEG-classifaction-using-text-compression
+
+---
+
+## 🌍 Languages
+- Arabic — Native  
+- Hebrew — Fluent  
+- English — Professional Working Proficiency  
+
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
 
@@ -79,8 +104,7 @@ I'm a dedicated software engineer passionate about crafting **elegant solutions*
 ---
 
 <div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
 
+💡 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
