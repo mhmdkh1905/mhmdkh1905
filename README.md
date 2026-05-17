@@ -72,7 +72,7 @@ B.Sc. Software Engineering graduate and Junior Full-Stack Developer with experie
 - Implemented order management, inventory tracking, employee management, and analytics dashboards.
 - Developed RESTful APIs and MongoDB transactions for secure and scalable data handling.
 
-🔗 **Live Demo:** [Live Website](YOUR_LINK_HERE)  
+🔗 **Live Demo:** [Live Website](https://resturant-os-frontend-mu.vercel.app/)  
 🔗 **Frontend:** [GitHub Repository](https://github.com/mhmdkh1905/ResturantOS-frontend)  
 🔗 **Backend:** [GitHub Repository](https://github.com/mhmdkh1905/ResturantOS-backend)
 
@@ -87,8 +87,8 @@ B.Sc. Software Engineering graduate and Junior Full-Stack Developer with experie
 - Implemented authentication, user profiles, comments, likes/dislikes, and Firebase-based content management.
 - Focused on building an immersive and community-driven user experience.
 
-🔗 **Live Demo:** [Live Website](YOUR_LINK_HERE)  
-🔗 **GitHub Repository:** [ReAnime](YOUR_GITHUB_LINK_HERE)
+🔗 **Live Demo:** [Live Website](https://re-anime.vercel.app/)  
+🔗 **GitHub Repository:** [ReAnime](https://github.com/mhmdkh1905/ReAnime.git)
 
 ---
 
