@@ -12,21 +12,11 @@ alt="Typing introduction"
 <br />
 <br />
 
-<a href="https://www.linkedin.com/in/mohammad-khateeb-891332303">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn profile"
-  />
-</a>
+<div align="center">
 
- 
+<a href="https://www.linkedin.com/in/mohammad-khateeb-891332303"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a> <a href="mailto:mhmd52kh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 
-<a href="mailto:mhmd52kh@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-    alt="Send email"
-  />
-</a>
+</div>
 
 </div>
 
