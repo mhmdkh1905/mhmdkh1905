@@ -252,19 +252,10 @@ This project uses **Normalized Compression Distance** to compare and classify EE
 
 <div align="center">
 
-<a href="https://github.com/mhmdkh1905">
-  <img src="https://img.shields.io/badge/GitHub-View%20Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
-</a>
-
-<a href="https://www.linkedin.com/in/mohammad-khateeb-891332303">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
-</a>
-
-<a href="mailto:mhmd52kh@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" />
-</a>
+<a href="https://github.com/mhmdkh1905"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a><a href="https://www.linkedin.com/in/mohammad-khateeb-891332303"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a><a href="mailto:mhmd52kh@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /></a>
 
 </div>
+
 
 ---
 
