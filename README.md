@@ -1,19 +1,35 @@
 <div align="center">
 
-👋 Hi, I'm Mohammad Khateeb
-Junior Full-Stack Developer | Software Engineering Graduate
+# 👋 Hi, I'm Mohammad Khateeb
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E9CFF&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Development;Building+Practical+Software+Solutions;React+%7C+Node.js+%7C+Express.js;Data+Visualization+%26+Web+Applications;Always+Learning+and+Improving" alt="Typing introduction" />
+### Junior Full-Stack Developer | Software Engineering Graduate
 
-<br /> <br />
+<img
+src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4E9CFF&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Development;Building+Practical+Software+Solutions;React+%7C+Node.js+%7C+Express.js;Data+Visualization+%26+Web+Applications;Always+Learning+and+Improving"
+alt="Typing introduction"
+/>
 
-<a href="https://www.linkedin.com/in/mohammad-khateeb-891332303"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /> </a>
+<br />
+<br />
 
- 
+<a href="https://www.linkedin.com/in/mohammad-khateeb-891332303">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn profile"
+  />
+</a>
 
-<a href="mailto:mhmd52kh@gmail.com"> <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send email" /> </a>
+ 
+
+<a href="mailto:mhmd52kh@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send email"
+  />
+</a>
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
